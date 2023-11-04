@@ -1,0 +1,172 @@
+
+div {
+    text-align: right;
+    margin-top: 10px;
+}
+p {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold ;
+    
+}
+.button-hurry {
+    background-color: black;
+    color: white;
+    border-radius: 1px;
+    border-width: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 3px;
+    font-size: larger;
+    cursor: pointer;
+    padding-left: 7px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 7px;
+    
+
+}
+body {
+    background-image: url(img\ 2.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3 {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.s-s {
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.a1 {
+    text-align: right;
+    margin-left: 5px;
+    border-radius: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+    align-items: center;
+    border-radius: 2px;
+    background-color: white;
+    padding-left: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 2px;
+    border-style: solid;
+  
+}
+.a1:hover {
+    background-color: black;
+    color: white;
+    }
+
+.a2:hover {
+        background-color: black;
+        color: white;
+        }
+.a3:hover {
+            background-color: black;
+            color: white;
+            }
+.a2 {
+    text-align: right;
+    margin-left: 5px;
+    border-radius: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+    align-items: center;
+    background-color: white;
+    border-style: solid;
+    padding-left: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 2px;
+
+}
+.a3 {
+    text-align: right;
+    margin-left: 1px;
+    border-radius: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+    align-items: center;
+    background-color: white;
+    border-style: solid;
+    padding-left: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 2px;
+}
+.SUBSCRIBE-button {
+    background-color: rgb(146, 8, 8);
+    color: wheat;
+    border: none;
+    height: 30px;
+    width: 105px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+.SUBSCRIBE-button:hover{
+    background-color: green;
+    
+}
+.SUBSCRIBE-button:active{
+    background-color:blue;
+    
+}
+.REGISTER-button{
+    background-color: rgb(238, 238, 238);
+    border-color: rgb(81, 81, 230);
+    color: rgb(84, 123, 196);
+    cursor: pointer;
+    height: 30px;
+    border-radius :10px;
+    width: 105px;
+    border-style: solid;
+    margin-left: 8px;
+    transition: background-color 1s;
+    
+}
+.REGISTER-button:hover{
+    background-color: blue;
+    color: wheat;
+}
+.REGISTER-button:active{
+    background-color: white;
+}
+.LOGIN-button {
+    background-color: lime;
+    border-radius: 10px;
+    font-size: large;
+    color: white;
+    height: 35px;
+    width: 105;
+    cursor: pointer;
+    border-style: solid;
+    margin-left: 8px;
+    border-color: deepskyblue;
+
+
+}
+.REQUEST-button {
+    background-color: black;
+    height: 50px;
+    width: 105px;
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    border-radius: 5px;
+}
+.REQUEST-button:hover{
+    box-shadow: 10px 10px 10px rgba(0, 0,0,0.15);
+    transition: background-color white;
+    color: black;
+}
+.REQUEST-button:active{
+   
+ background-color: white;
+
+}
